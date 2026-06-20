@@ -1,0 +1,9 @@
+{
+  "name": "english-word-dictionary",
+  "version": "1.0.0",
+  "description": "A free English dictionary web app for kids and adults.",
+  "private": true,
+  "scripts": {
+    "build": "mkdir -p public && cp index.html public/index.html"
+  }
+}
